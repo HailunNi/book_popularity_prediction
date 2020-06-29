@@ -1,9 +1,5 @@
 ![Cover image](/images/cover_image.png)
 
-# Fantasize
-
-## Predicting fantasy novel popularity
-
 ### Problem
 Most publishers select only a very few books to publish each year. One receives 10,000 manuscripts and publishes only 10 books a year. Therefore, as a publisher, you would want to select manuscripts that will be popular in order to maximize sales. The Fantasize web app helps publishers select the right manuscripts to publish. The app layout is as follows.
 
