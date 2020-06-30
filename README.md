@@ -26,3 +26,4 @@ This web app is built upon the following data and code sources.
 * [UCSD Book Graph](https://sites.google.com/eng.ucsd.edu/ucsdbookgraph/home)
 * [Chris McCormick NLP](https://www.chrismccormick.ai/)
 * [How to solve 90% of NLP problems: a step-by-step guide](https://blog.insightdatascience.com/how-to-solve-90-of-nlp-problems-a-step-by-step-guide-fda605278e4e#:~:text=Remove%20all%20irrelevant%20characters%20such,%2C%20and%20%E2%80%9CHELLO%E2%80%9D%20the%20same)
+* [The AIgent: Using Google’s BERT Language Model to Connect Writers & Representation](https://blog.insightdatascience.com/the-aigent-using-googles-bert-language-model-to-connect-writers-representation-42ac6388da7c)
