@@ -22,8 +22,10 @@ The Fantasize web app predicts whether a fantasy novel will be popular or not us
 ![Future directions](/images/future_directions.png)
 
 ### References
-This web app is built upon the following data and code sources.
+This web app is built upon the following data, code, and literature sources.
 * [UCSD Book Graph](https://sites.google.com/eng.ucsd.edu/ucsdbookgraph/home)
 * [Chris McCormick NLP](https://www.chrismccormick.ai/)
 * [How to solve 90% of NLP problems: a step-by-step guide](https://blog.insightdatascience.com/how-to-solve-90-of-nlp-problems-a-step-by-step-guide-fda605278e4e#:~:text=Remove%20all%20irrelevant%20characters%20such,%2C%20and%20%E2%80%9CHELLO%E2%80%9D%20the%20same)
 * [The AIgent: Using Google’s BERT Language Model to Connect Writers & Representation](https://blog.insightdatascience.com/the-aigent-using-googles-bert-language-model-to-connect-writers-representation-42ac6388da7c)
+* [Success in books: a big data approach to bestsellers](https://link.springer.com/content/pdf/10.1140/epjds/s13688-018-0135-y.pdf)
+* [Success in books: predicting book sales before publication](https://link.springer.com/article/10.1140/epjds/s13688-019-0208-6)
